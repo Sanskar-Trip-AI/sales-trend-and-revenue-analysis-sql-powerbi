@@ -70,7 +70,7 @@ FROM sales.transactions t
 JOIN sales.markets m ON t.market_code = m.markets_code
 GROUP BY m.market_name
 ORDER BY Revenue DESC;
-
+```
 ---
 
 ## 👤 Author & Contact  
