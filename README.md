@@ -155,7 +155,8 @@ SELECT SUM(sales.transactions.sales_amount) FROM sales.transactions INNER JOIN s
 
 A **Star Schema** was designed in Power BI:
 
-![Data Model](Dashboard/Data_Model.png)
+![Data Model]("Dashboard/Data Model.png")
+
 
 - Relationships were defined using primary and foreign keys from the SQL tables.  
 - Optimized performance and ensured accurate aggregations.
