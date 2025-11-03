@@ -192,7 +192,7 @@ Key performance indicators (KPIs) were created using **DAX formulas**:
 - Map visuals showing revenue by zone and city  
 - Top-performing and underperforming regions  
 
-![Key Insights](Dashboard/Key_Insights.jpg)
+![Profit Analysis](Dashboard/Profit_Analysis.jpg)
 
 ---
 
@@ -200,8 +200,7 @@ Key performance indicators (KPIs) were created using **DAX formulas**:
 - Product category-wise revenue and margin analysis  
 - Top 5 customers by contribution  
 
-![Profit Analysis](Dashboard/Profit_Analysis.jpg)
-
+![Key Insights](Dashboard/Key_Insights.jpg)
 
 ---
 
