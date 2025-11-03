@@ -179,11 +179,12 @@ Key performance indicators (KPIs) were created using **DAX formulas**:
 
 ## 📊 Dashboard Overview
 
+
 ### 🧾 **Sales Overview**
 - KPIs: Total Revenue, Profit %, Sales Qty, YoY Growth  
 - Trend line: Yearly & Monthly revenue patterns  
 
-![Performance Analysis](Dashboard/Performance_Analysis.png)
+![Sales Overview](Dashboard/Performance_Analysis.png)
 
 ---
 
@@ -191,7 +192,7 @@ Key performance indicators (KPIs) were created using **DAX formulas**:
 - Map visuals showing revenue by zone and city  
 - Top-performing and underperforming regions  
 
-![Key Insights](Dashboard/Key_Insights.png)
+![Regional Performance](Dashboard/Key_Insights.png)
 
 ---
 
@@ -199,7 +200,8 @@ Key performance indicators (KPIs) were created using **DAX formulas**:
 - Product category-wise revenue and margin analysis  
 - Top 5 customers by contribution  
 
-![Profit Analysis](Dashboard/Profit_Analysis.png)
+![Product & Customer Insights](Dashboard/Profit_Analysis.png)
+
 
 ---
 
