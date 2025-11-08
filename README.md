@@ -9,6 +9,7 @@ This project focuses on analyzing sales trends and revenue drivers for a **compu
 - [Problem Statement](#-problem-statement)
 - [Data Overview](#-data-overview)
 - [SQL Data Preparation](#-sql-data-preparation)
+- [Data Analysis using MySQL](#-data-analysis-using-mysql)
 - [Data Cleaning & ETL (Power BI)](#-data-cleaning--etl-power-bi)
 - [Data Modeling](#-data-modeling)
 - [KPI Measures (DAX)](#-kpi-measures-dax)
